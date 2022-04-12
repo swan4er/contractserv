@@ -1,0 +1,9 @@
+docx==0.2.4
+docx2pdf==0.1.8
+Flask==2.0.3
+Flask_Cors==3.0.10
+python_docx==0.8.11
+tinydb==4.7.0
+Werkzeug==2.0.3
+yadisk==1.2.15
+gunicorn==20.1.0
