@@ -6,3 +6,4 @@ python_docx==0.8.11
 tinydb==4.7.0
 Werkzeug==2.0.3
 yadisk==1.2.15
+gunicorn==20.1.0
